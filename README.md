@@ -1,8 +1,10 @@
 # EdgeDetection
-Edge Detection
 
+A project that includes various ways to detect borders in an image. 
+Will be complemented by various and modern methods. 
+From simple to complex, including neural networks.
 
-A project that includes various ways to detect borders in an image. Will be complemented by various and modern methods. From simple to complex, including neural networks.
+https://paperswithcode.com/task/edge-detection
 
 1. Sobel Edge Detection
 
